@@ -1,6 +1,6 @@
 # PCK_PROJECT
 page login-register
-![Image](https://github.com/user-attachments/assets/e9674960-dcdb-45c0-9f98-7a5554121b8b)
+<img src="https://github.com/user-attachments/assets/e9674960-dcdb-45c0-9f98-7a5554121b8b" alt="Image" width="300">
 
 ![Image](https://github.com/user-attachments/assets/596335ea-b4a8-43e5-a256-edfacb22023a)
 
