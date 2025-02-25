@@ -3,7 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/e9674960-dcdb-45c0-9f98-7a5554121b8b" alt="Image" width="300">
 
-<img src="https://github.com/user-attachments/assets/596335ea-b4a8-43e5-a256-edfacb22023a" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/596335ea-b4a8-43e5-a256-edfacb22023a" alt="Image" width="400">
 
 - Once you successfully log in, you will be taken to the store's product selection page.
 
@@ -33,15 +33,15 @@
 
 - Then go to the SCB EasySandbox app and press Scan to pay. 💰
 
-<img src="https://github.com/user-attachments/assets/59a4bfff-7ace-4cd6-a29e-834bd0874e42" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/59a4bfff-7ace-4cd6-a29e-834bd0874e42" alt="Image" width="100">
 
-<img src="https://github.com/user-attachments/assets/c8632cac-9834-48f2-b181-884a9015ecbd" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/c8632cac-9834-48f2-b181-884a9015ecbd" alt="Image" width="100">
 
-<img src="https://github.com/user-attachments/assets/bdf8677d-d279-4bfe-9597-1b8cf47c56c4" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/bdf8677d-d279-4bfe-9597-1b8cf47c56c4" alt="Image" width="100">
 
 - Account appearance on the merchant side 💰
 
-<img src="https://github.com/user-attachments/assets/d24f4398-3d4a-40d2-b3f7-d3db955aee87" alt="Image" width="300">
+<img src="https://github.com/user-attachments/assets/d24f4398-3d4a-40d2-b3f7-d3db955aee87" alt="Image" width="200">
 
 - When we return to the website, when we have completed the payment, a page will appear stating that the payment is complete and there will be a button to press to return.
 
